@@ -1,8 +1,11 @@
 # Launch Radar Terminal — token-radar-01 v7
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/salikamarlisa3-cell/token-radar-01-v7/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/salikamarlisa3-cell/token-radar-01-v7/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![Runtime: Node 22](https://img.shields.io/badge/runtime-Node%2022-blue)
-![Model: fitted, validated out of sample](https://img.shields.io/badge/model-fitted%20%2B%20validated-orange)
 
 A token launch radar for the make.fun `token-radar-01` bounty. It reads
 the sealed DefiLlama snapshot, prices every pre-token protocol with a
